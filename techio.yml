@@ -1,10 +1,82 @@
-title: Python Project
+title: Smart Money $$$$$
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+  - title: Welcome
+    plan:
+      - title: What is Smart Money?
+        statement: 01 - Introduction/01 - introduction.md
+      - title: Questions to Consider
+        statement: 01 - Introduction/02 - questions to consider.md
+      - title: A Few Preliminaries
+        statement: 01 - Introduction/03 - a few preliminaries.md
+  - title: Wealth Classification
+    plan:
+      - title: Wealth Classification Overview
+        statement: 02 - Wealth Classification/01 - wealth classification overview.md
+      - title: Non-Qualified $
+        statement: 02 - Wealth Classification/02 - non-qualified.md
+      - title: Qualified $ (Traditional)
+        statement: 02 - Wealth Classification/03 - qualified traditional.md
+      - title: Qualified $ (Roth)
+        statement: 02 - Wealth Classification/04 - qualified roth.md
+      - title: What About Trusts?
+        statement: 02 - Wealth Classification/05 - what about trusts.md
+      - title: Classification Hierarchy
+        statement: 02 - Wealth Classification/06 - classification hierarchy.md
+      - title: Often Overlooked Benefit
+        statement: 02 - Wealth Classification/07 - often overlooked.md
+  - title: Advisor Fees
+    plan:
+      - title: Choose Payment Source Wisely
+        statement: 03 - Advisor Fees/01 - choose fee source wisely.md
+  - title: Asset/Risk/Reward Location
+    plan:
+      - title: Location Matters
+        statement: 04 - Asset Location/01 - asset location.md
+      - title: Historical Returns
+        statement: 04 - Asset Location/02 - historical returns.md
+      - title: Elite Returns
+        statement: 04 - Asset Location/the big boys.md
+  - title: Early and Often
+    plan:
+      - title: Potential Game-Changer for Kids
+        statement: 10 - Early and Often/01 - early and often.md
+      - title: Madison, the Entrepreneur
+        statement: 10 - Early and Often/madison projections.md
+      - title: Never Trust, Always Verify
+        statement: 10 - Early and Often/10 - never trust, always verify.md
+  - title: More Funds Create More Options
+    plan:
+      - title: Overview
+        statement: 20 - Reallocating Funds/01 - more funds equals more options.md
+      - title: Max Fund a Roth 401(k)
+        statement: 20 - Reallocating Funds/02 - max fund a roth 401k.md
+      - title: Max Fund a Traditional 401(k) and Convert to Roth
+        statement: 20 - Reallocating Funds/03 - traditional 401k and convert.md
+  - title: Roth IRA Basics
+    plan:
+      - title: Introduction to Roth IRAs
+        statement: 80 - Roth IRA Basics/01 - roth ira introduction.md
+      - title: Key Features of a Roth IRA
+        statement: 80 - Roth IRA Basics/02 - roth ira key features.md
+      - title: Eligibility and Contribution Limits
+        statement: 80 - Roth IRA Basics/03 - eligibility and contribution limits.md
+      - title: Benefits of a Roth IRA
+        statement: 80 - Roth IRA Basics/04 - benefits of a roth ira.md
+      - title: Roth IRA Withdrawal Rules
+        statement: 80 - Roth IRA Basics/05 - roth ira withdrawal rules.md
+      - title: Roth IRAs vs Other Retirement Accounts
+        statement: 80 - Roth IRA Basics/06 - roth ira vs other retirement accounts.md
+      - title: Strategies for Maximizing a Roth IRA
+        statement: 80 - Roth IRA Basics/07 - strategies for maximizing a roth ira.md
+      - title: Common Mistakes
+        statement: 80 - Roth IRA Basics/08 - common mistakes.md
+      - title: FAQs and Myths
+        statement: 80 - Roth IRA Basics/09 - FAQs and myths.md
+      - title: Conclusion
+        statement: 80 - Roth IRA Basics/10 - conclusion.md
 projects:
   python:
     root: /python-project
-    runner:
+    runner: 
       name: python
       version: '3'
