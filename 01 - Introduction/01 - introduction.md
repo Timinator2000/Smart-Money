@@ -1,6 +1,6 @@
 ![Smart Money](smart_money.png)
 
-# TL;DR - Too Long; Didn't Read
+# TL;DR
 
 The tax-free growth and withdrawals of Roth IRAs make them the holy grail of long-term wealth building. Chances are, you're not taking full advantage of Roth opportunities. With the right strategy—even one that unfolds over many years—you can create lasting financial benefits for yourself and future generations.
 
